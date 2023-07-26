@@ -13,9 +13,6 @@ def modulo(num1,num2):
     
 def main():
     print("Enter the operation you want to perform: ")
-=======
->>>>>>> a925c8391cd13b54ba938d97a003b9f10a22a1df
-
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
     user_input2 = int(input("Enter the second number: "))
