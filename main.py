@@ -1,8 +1,7 @@
 # Add your functions here!
 
 
-def main():
-    print("Enter the operation you want to perform: ")
+
 
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
