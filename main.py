@@ -3,6 +3,10 @@ def add (num1,num2) :
     result = num1 + num2
     print("The result is ", result)
 
+def subtract(num1,num2):
+    result = num1 - num2
+    print("the result of subtract is: ", result)
+
 def multiply(num1, num2):
     result = num1 - num2
     print("the result of subtract is: ", result)
