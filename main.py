@@ -1,8 +1,9 @@
 # Add your functions here!
 
 
-def main():
-    print("Enter the operation you want to perform: ")
+def multiply(num1, num2):
+    result = num1 - num2
+    print("The multiplication result is: ", result)
 
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
