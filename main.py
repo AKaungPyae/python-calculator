@@ -7,12 +7,17 @@ def subtract(num1,num2):
     result = num1 - num2
     print("the result of subtract is: ", result)
 
+def divide(num1, num2 )
+    result = num1 / num2
+    print("The result is: ", result)
+
 def modulo(num1,num2):
     result = num1 % num2
     print("The result is: ", result)
     
 def main():
     print("Enter the operation you want to perform: ")
+    
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
     user_input2 = int(input("Enter the second number: "))
