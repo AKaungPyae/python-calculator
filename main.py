@@ -11,7 +11,7 @@ def multiply(num1, num2):
     result = num1 - num2
     print("the result of subtract is: ", result)
 
-def divide(num1, num2 )
+def divide(num1, num2 ):
     result = num1 / num2
     print("The result is: ", result)
 
