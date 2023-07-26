@@ -3,9 +3,7 @@ def modulo(num1,num2):
     result = num1 % num2
     print("The result is: ", result)
 
-def multiply(num1, num2):
-    result = num1 - num2
-    print("The multiplication result is: ", result)
+
 
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
