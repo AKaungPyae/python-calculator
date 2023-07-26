@@ -1,8 +1,14 @@
 # Add your functions here!
+<<<<<<< HEAD
 def add (num1,num2) :
     result = num1 + num2
     print("The result is ", result)
 
+=======
+def subtract(num1,num2):
+    result = num1 - num2
+    print("the result of subtract is: ", result)
+>>>>>>> e21777bb947e38407424dd8963314eccf148179c
 
 
     user_operation = input()
