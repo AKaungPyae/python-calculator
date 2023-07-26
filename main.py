@@ -1,25 +1,11 @@
 # Add your functions here!
-<<<<<<< HEAD
-<<<<<<< HEAD
 def modulo(num1,num2):
     result = num1 % num2
     print("The result is: ", result)
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 45fc61c14f6c5d085774e7a5593de28ce3080519
-def add (num1,num2) :
-    result = num1 + num2
-    print("The result is ", result)
->>>>>>> a925c8391cd13b54ba938d97a003b9f10a22a1df
 
-def subtract(num1,num2):
+def multiply(num1, num2):
     result = num1 - num2
-    print("the result of subtract is: ", result)
-
-def divide(num1, num2 )
-    result = num1 / num2
-    print("The result is: ", result)
+    print("The multiplication result is: ", result)
 
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
