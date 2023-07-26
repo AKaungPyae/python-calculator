@@ -1,4 +1,8 @@
 # Add your functions here!
+def add (num1,num2) :
+    result = num1 + num2
+    print("The result is ", result)
+
 def subtract(num1,num2):
     result = num1 - num2
     print("the result of subtract is: ", result)
@@ -9,6 +13,8 @@ def modulo(num1,num2):
     
 def main():
     print("Enter the operation you want to perform: ")
+=======
+>>>>>>> a925c8391cd13b54ba938d97a003b9f10a22a1df
 
     user_operation = input()
     user_input1 = int(input("Enter the first number: "))
